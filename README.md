@@ -1,11 +1,11 @@
-# 🛬 Simulation Amortisseur Train d'Atterrissage — Appontage Rafale-M
+#  Simulation Amortisseur Train d'Atterrissage — Appontage Rafale-M
 
 Simulation numérique du comportement d'un amortisseur de train d'atterrissage lors d'un appontage sur porte-avions.  
 Projet inspiré d'un travail académique réalisé en partenariat avec **Safran Landing Systems** (ENIB, 2025).
 
 ---
 
-## 📐 Physique du problème
+##  Physique du problème
 
 L'amortisseur est modélisé comme un **système masse-ressort-amortisseur du 2nd ordre** :
 
@@ -32,7 +32,7 @@ m·x''(t) + c·x'(t) + k·x(t) = m·g
 
 ---
 
-## 📊 Résultats — Étude paramétrique
+##  Résultats — Étude paramétrique
 
 ![Résultats](resultats_appontage.png)
 
@@ -55,7 +55,7 @@ Comparaison de **3 configurations d'amortissement** :
 
 ---
 
-## 🚀 Lancer la simulation
+##  Lancer la simulation
 
 ```bash
 git clone https://github.com/keitaaboubacar0611-hue/simulation-train-atterrissage.git
@@ -68,7 +68,7 @@ python simulation_appontage.py
 
 ---
 
-## ⚙️ Modifier les paramètres
+##  Modifier les paramètres
 
 ```python
 m        = 9500.0    # Masse aéronef [kg]
@@ -84,7 +84,7 @@ configs = [
 
 ---
 
-## 📁 Structure du projet
+##  Structure du projet
 
 ```
 simulation-train-atterrissage/
@@ -96,8 +96,8 @@ simulation-train-atterrissage/
 
 ---
 
-## 👤 Auteur
+##  Auteur
 
 **Keita Aboubacar** — Étudiant ingénieur ENIB, Brest  
-📧 keitaaboubacar0611@gmail.com  
-🔗 [github.com/keitaaboubacar0611-hue](https://github.com/keitaaboubacar0611-hue)
+ keitaaboubacar0611@gmail.com  
+ [github.com/keitaaboubacar0611-hue](https://github.com/keitaaboubacar0611-hue)
