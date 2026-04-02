@@ -46,7 +46,7 @@ Comparaison de **3 configurations d'amortissement** :
 
 ---
 
-## 🛠️ Technologies
+##  Technologies
 
 - **Python 3**
 - **NumPy** — calcul numérique
