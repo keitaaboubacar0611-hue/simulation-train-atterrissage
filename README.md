@@ -22,7 +22,7 @@ m·x''(t) + c·x'(t) + k·x(t) = m·g
 
 ---
 
-## 🎯 Critères de validation (normes Safran Landing Systems)
+##  Critères de validation (normes Safran Landing Systems)
 
 | Critère | Limite | Signification |
 |---------|--------|---------------|
