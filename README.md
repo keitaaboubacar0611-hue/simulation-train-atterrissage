@@ -1,7 +1,7 @@
 #  Simulation Amortisseur Train d'Atterrissage — Appontage Rafale-M
 
 Simulation numérique du comportement d'un amortisseur de train d'atterrissage lors d'un appontage sur porte-avions.  
-Projet inspiré d'un travail académique réalisé en partenariat avec **Safran Landing Systems** (ENIB, 2025).
+Projet inspiré d'un travail académique réalisé  avec **Safran Landing Systems** (ENIB, 2025).
 
 ---
 
